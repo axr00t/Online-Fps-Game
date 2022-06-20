@@ -12,7 +12,7 @@
 
 This project was developed with the following technologies:
 
-- Unity
+- Unity Game Engine
 
 ## 💻 Project
 
